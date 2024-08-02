@@ -1,1 +1,3 @@
 file diedit di vscode
+
+ini adalah featureA
